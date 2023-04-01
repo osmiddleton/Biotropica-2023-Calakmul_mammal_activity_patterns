@@ -11,3 +11,5 @@ The CBR is on the edge of a vast expanse of connected forest throughout Central 
 
 ![image](https://user-images.githubusercontent.com/34517014/229285452-321a748b-a603-4ec3-9b28-36ff409324f4.png)
 <sub>Figure adapted from: https://www.ecosia.org/images?q=jaguar%20puma%20ocelot#id=3A98687B61456839EC52A2065B9D1A890722D197</sub>
+
+![image](https://user-images.githubusercontent.com/34517014/229286080-ce6b3c8f-ca0e-4657-b76b-08a671040804.png)

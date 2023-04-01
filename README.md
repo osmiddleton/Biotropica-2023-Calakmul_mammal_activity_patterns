@@ -3,7 +3,7 @@
 This repository contains all raw data files and reproducible scripts used for the following publication (assuming acceptance after minor revisions):
 _Argudin-Violante, C., Middleton, O., Slater, K., Dominguez-Bonilla, E., & Doncaster, C. P. 2023. Neo-tropical felid activity patterns in relation to potential prey and intra-guild competitors in the Calakmul Biosphere Reserve, Mexico. Biotropica._
 
-The analyses investigated the **extent of overlap in the activity patterns between the three largest felids in the Calakmul Biosphere Reserve (CBR) with potential prey species**. The felids included jaguars, pumas, and ocelots (see below) and potential prey species included collared peccary, brocket deer, white-tailed deer, Baird's tapir, coati, paca, agouti, common opossum, ocellated turkey and great currasow. 
+The analyses investigated the **extent of overlap in the activity patterns between the three largest felids in the Calakmul Biosphere Reserve (CBR) with each other and also of potential prey species**. The felids included jaguars, pumas, and ocelots (see below) and potential prey species included collared peccary, brocket deer, white-tailed deer, Baird's tapir, coati, paca, agouti, common opossum, ocellated turkey and great currasow. 
 
 The CBR is on the edge of a vast expanse of connected forest throughout Central America that is a stronghold for species of conservation concern. It faces heavy pressure from human activity, with urban development encroaching on the area and also hunting pressures. Surprisingly, the ecology of species in the CBR remains relatively understudied, and this is the first study to investigate mammalian activity patterns for the reserve.
 

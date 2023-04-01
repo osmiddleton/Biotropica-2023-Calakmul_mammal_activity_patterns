@@ -1,8 +1,8 @@
-# Biotropica-2023-Calakmul_mammal_activity_patterns
+# Biotropica (2023) - Mammalian activity patterns within the Calakmul Biosphere Reserve
 
 This repository contains all raw data files and reproducible scripts used for the following publication (assuming acceptance after minor revisions):
 
-Cristina Argudin-Violante, Owen Middleton, Kathy Slater,Esteban Dominguez-Bonilla & Patrick Doncaster (2023) Neo-tropical felid activity patterns in relation to potential prey and intra-guild competitors in the Calakmul Biosphere Reserve, Mexico. Biotropica.                                                                   #
+**Cristina Argudin-Violante, Owen Middleton, Kathy Slater,Esteban Dominguez-Bonilla & Patrick Doncaster (2023) Neo-tropical felid activity patterns in relation to potential prey and intra-guild competitors in the Calakmul Biosphere Reserve, Mexico. Biotropica.                                                                   #
 
 The analyses investigated the extent of overlap in the activity patterns between the three largest felids in the Calakmul Biosphere Reserve (jaguars, pumas, and ocelots) with potential prey species (collared peccary, brocket deer, white-tailed deer, Baird's tapir, coati, paca, agouti, common opossum, ocellated turkey andcreat currasow). 
 
